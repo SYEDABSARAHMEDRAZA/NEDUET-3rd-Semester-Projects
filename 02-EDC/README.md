@@ -2,15 +2,15 @@
 
 ##  Analog Audio Signal Level Indicator (VU Meter) Using LEDs
 
-## Project Overview:
+### Project Overview:
 This laboratory work involves practical electronic circuit construction, analysis, and simulation as part of the Electronic Devices and Circuits course.
 
-## Project Contents:
+### Project Contents:
 - OEL report
 - Physical circuit implementation pictures
 - Multisim simulation screenshots
 
-## Skills and Tools:
+### Skills and Tools:
 - Electronic circuit analysis
 - Circuit implementation
 - Multisim simulation
