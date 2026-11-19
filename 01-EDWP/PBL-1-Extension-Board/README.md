@@ -1,4 +1,5 @@
-# PBL 1 – Extension Board
+# Engineering Drawing & Workshop Practice(EDWP) – PBL 1
+Extension Board
 
 ## Project Overview
 This project involved designing and constructing an extension board capable of supplying three electrical loads with a maximum total current of approximately 10 A.
