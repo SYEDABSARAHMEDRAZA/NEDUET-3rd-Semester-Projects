@@ -1,6 +1,6 @@
 # Engineering Drawing & Workshop Practice(EDWP) – PBL 1
 
-##Safe Wiring Installation, Earthing & Fault Identification
+## Safe Wiring Installation, Earthing & Fault Identification
 
 ## Project Overview
 This project involved designing and implementing a small workshop wiring installation with two independently controlled lights, one power socket, and protective earthing.
