@@ -1,5 +1,7 @@
 # Electronic Devices and Circuits (EDC) – OEL
 
+## Analog Audio Signal Level Indicator (VU Meter) Using LEDs
+
 ## Project Overview
 This laboratory work involves practical electronic circuit construction, analysis, and simulation as part of the Electronic Devices and Circuits course.
 
