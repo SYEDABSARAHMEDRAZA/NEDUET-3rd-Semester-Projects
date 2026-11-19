@@ -2,7 +2,7 @@
 
 ## Electrical Power Distribution System (Using a Tree Data Structure)
 
-## Project Overview:
+### Project Overview:
 This section contains practical laboratory exercises completed as part of the Data Structures and Algorithms course using Python.
 
 ## Project Contents:
