@@ -93,19 +93,18 @@ Programming assignments and projects focused on implementing data structures, al
 ## Repository Structure:
 
 ```text
-NEDUET-3rd-Semester-Projects/
+NEDUET-3rd-Semester-Projects
 │
-├── 01-EDWP/
-│   ├── PBL-1-Extension-Board/
-│   └── PBL-2-Safe-Wiring-Installation/
+├── 01-EDWP
+│   ├── PBL-1-Extension-Board
+│   └── PBL-2-Safe-Wiring-Installation
 │
-├── 02-EDC/
-│   └── OEL-VU-Meter/
+├── 02-EDC
+│   └── OEL
 │
-├── 03-DSA/
-│   ├── OEL/
-│   ├── City-Route-Finder/
-│   └── Electrical-Power-Distribution-Tree/
+├── 03-DSA
+│   ├── OEL
+│   └── Theory-Project
 │
 └── README.md
 ```
