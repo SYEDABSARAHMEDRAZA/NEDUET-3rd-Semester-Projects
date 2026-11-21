@@ -1,4 +1,4 @@
-# Engineering Drawing & Workshop Practice(EDWP) – PBL 1
+# Engineering Drawing & Workshop Practice(EDWP) – PBL 2
 
 ## Safe Wiring Installation, Earthing & Fault Identification
 
