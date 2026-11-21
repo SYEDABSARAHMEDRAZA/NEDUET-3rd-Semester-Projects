@@ -8,7 +8,7 @@ This laboratory work involves practical electronic circuit construction, analysi
 ### Project Contents:
 - OEL report
 - Physical circuit implementation pictures
-- Multisim simulation screenshots
+- Multisim simulation screenshot
 
 ### Skills and Tools:
 - Electronic circuit analysis
