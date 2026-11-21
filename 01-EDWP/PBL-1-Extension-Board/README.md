@@ -8,7 +8,7 @@ This project involved designing and constructing an extension board capable of s
 ### Project Contents:
 - PBL 1 report
 - Physical implementation photographs
-- AutoCAD design screenshots
+- AutoCAD design screenshot
 
 ### Skills and Tools:
 - Electrical wiring and connections
