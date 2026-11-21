@@ -8,7 +8,7 @@ This project involved designing and implementing a small workshop wiring install
 ### Project Contents:
 - PBL 2 report
 - Physical implementation photographs
-- AutoCAD wiring diagram (PDF)
+- AutoCAD wiring diagram (PDF & DWG)
 
 ### Skills and Tools:
 - Electrical wiring installation
