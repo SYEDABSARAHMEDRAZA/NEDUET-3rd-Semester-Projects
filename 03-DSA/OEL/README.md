@@ -6,8 +6,9 @@
 This section contains practical laboratory exercises completed as part of the Data Structures and Algorithms course using Python.
 
 ### Project Contents:
-- OEL laboratory report
-- Python source-code files
+- OEL report
+- Python source code
+- Output screenshots
 
 ### Skills and Tools:
 - Python programming
